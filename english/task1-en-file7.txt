@@ -1,0 +1,390 @@
+1	TRUMP	Thank you very much.
+2	TRUMP	Mr. Speaker, Mr. Vice President, members of Congress, the First Lady of the United States —
+3	SYSTEM	(APPLAUSE)
+4	TRUMP	 — and citizens of America: Tonight, as we mark the conclusion of our celebration of Black History Month, we are reminded of our nation’s path towards civil rights and the work that still remains to be done.
+5	SYSTEM	(APPLAUSE)
+6	TRUMP	Recent threats targeting Jewish community centers and vandalism of Jewish cemeteries, as well as last week’s shooting in Kansas City, remind us that while we may be a nation divided on policies, we are a country that stands united in condemning hate and evil in all of its very ugly forms.
+7	SYSTEM	(APPLAUSE)
+8	TRUMP	Each American generation passes the torch of truth, liberty and justice in an unbroken chain all the way down to the present.
+9	TRUMP	That torch is now in our hands.
+10	TRUMP	And we will use it to light up the world.
+11	TRUMP	I am here tonight to deliver a message of unity and strength, and it is a message deeply delivered from my heart.
+12	TRUMP	A new chapter —
+13	SYSTEM	(APPLAUSE)
+14	TRUMP	— of American Greatness is now beginning.
+15	TRUMP	A new national pride is sweeping across our nation.
+16	TRUMP	And a new surge of optimism is placing impossible dreams firmly within our grasp.
+17	TRUMP	What we are witnessing today is the renewal of the American spirit.
+18	TRUMP	Our allies will find that America is once again ready to lead.
+19	SYSTEM	(APPLAUSE)
+20	TRUMP	All the nations of the world — friend or foe — will find that America is strong, America is proud, and America is free.
+21	TRUMP	In nine years, the United States will celebrate the 250th anniversary of our founding — 250 years since the day we declared our independence.
+22	TRUMP	It will be one of the great milestones in the history of the world.
+23	TRUMP	But what will America look like as we reach our 250th year?
+24	TRUMP	What kind of country will we leave for our children?
+25	TRUMP	I will not allow the mistakes of recent decades past to define the course of our future.
+26	TRUMP	For too long, we’ve watched our middle class shrink as we’ve exported our jobs and wealth to foreign countries.
+27	TRUMP	We’ve financed and built one global project after another, but ignored the fates of our children in the inner cities of Chicago, Baltimore, Detroit, and so many other places throughout our land.
+28	TRUMP	We’ve defended the borders of other nations while leaving our own borders wide open for anyone to cross and for drugs to pour in at a now unprecedented rate.
+29	TRUMP	And we’ve spent trillions and trillions of dollars overseas, while our infrastructure at home has so badly crumbled.
+30	TRUMP	Then, in 2016, the Earth shifted beneath our feet.
+31	TRUMP	The rebellion started as a quiet protest, spoken by families of all colors and creeds — families who just wanted a fair shot for their children and a fair hearing for their concerns.
+32	TRUMP	But then the quiet voices became a loud chorus as thousands of citizens now spoke out together, from cities small and large, all across our country.
+33	TRUMP	Finally, the chorus became an earthquake, and the people turned out by the tens of millions, and they were all united by one very simple, but crucial demand: that America must put its own citizens first.
+34	TRUMP	Because only then can we truly make America great again.
+35	SYSTEM	(APPLAUSE)
+36	TRUMP	Dying industries will come roaring back to life.
+37	TRUMP	Heroic veterans will get the care they so desperately need.
+38	TRUMP	Our military will be given the resources its brave warriors so richly deserve.
+39	TRUMP	Crumbling infrastructure will be replaced with new roads, bridges, tunnels, airports and railways gleaming across our very, very beautiful land.
+40	TRUMP	Our terrible drug epidemic will slow down and, ultimately, stop.
+41	TRUMP	And our neglected inner cities will see a rebirth of hope, safety and opportunity.
+42	TRUMP	Above all else, we will keep our promises to the American people.
+43	SYSTEM	(APPLAUSE)
+44	TRUMP	It’s been a little over a month since my inauguration, and I want to take this moment to update the nation on the progress I’ve made in keeping those promises.
+45	TRUMP	Since my election, Ford, Fiat-Chrysler, General Motors, Sprint, Softbank, Lockheed, Intel, Walmart, and many others, have announced that they will invest billions of dollars in the United States and will create tens of thousands of new American jobs.
+46	SYSTEM	(APPLAUSE)
+47	TRUMP	The stock market has gained almost $3 trillion in value since the election on November 8th, a record.
+48	TRUMP	We’ve saved taxpayers hundreds of millions of dollars by bringing down the price of a fantastic — and it is a fantastic — new F-35 jet fighter, and we’ll be saving billions more on contracts all across our government.
+49	TRUMP	We have placed a hiring freeze on non-military and non-essential federal workers.
+50	TRUMP	We have begun to drain the swamp of government corruption by imposing a five-year ban on lobbying by executive branch officials and a lifetime ban —
+51	SYSTEM	(APPLAUSE)
+52	TRUMP	— thank you — and a lifetime ban on becoming lobbyists for a foreign government.
+53	TRUMP	We have undertaken a historic effort to massively reduce job-crushing regulations, creating a deregulation task force inside of every government agency.
+54	SYSTEM	(APPLAUSE)
+55	TRUMP	And we’re imposing a new rule which mandates that for every one new regulation, two old regulations must be eliminated.
+56	SYSTEM	(APPLAUSE)
+57	TRUMP	We’re going to stop the regulations that threaten the future and livelihood of our great coal miners.
+58	SYSTEM	(APPLAUSE)
+59	TRUMP	We have cleared the way for the construction of the Keystone and Dakota Access Pipelines —
+60	SYSTEM	(APPLAUSE)
+61	TRUMP	— thereby creating tens of thousands of jobs.
+62	TRUMP	And I’ve issued a new directive that new American pipelines be made with American steel.
+63	SYSTEM	(APPLAUSE)
+64	TRUMP	We have withdrawn the United States from the job-killing Trans-Pacific Partnership.
+65	SYSTEM	(APPLAUSE)
+66	TRUMP	And with the help of Prime Minister Justin Trudeau, we have formed a council with our neighbors in Canada to help ensure that women entrepreneurs have access to the networks, markets and capital they need to start a business and live out their financial dreams.
+67	SYSTEM	(APPLAUSE)
+68	TRUMP	To protect our citizens, I have directed the Department of Justice to form a Task Force on Reducing Violent Crime.
+69	TRUMP	I have further ordered the Departments of Homeland Security and Justice, along with the Department of State and the Director of National Intelligence, to coordinate an aggressive strategy to dismantle the criminal cartels that have spread all across our nation.
+70	SYSTEM	(APPLAUSE)
+71	TRUMP	We will stop the drugs from pouring into our country and poisoning our youth, and we will expand treatment for those who have become so badly addicted.
+72	SYSTEM	(APPLAUSE)
+73	TRUMP	At the same time, my administration has answered the pleas of the American people for immigration enforcement and border security.
+74	SYSTEM	(APPLAUSE)
+75	TRUMP	By finally enforcing our immigration laws, we will raise wages, help the unemployed, save billions and billions of dollars, and make our communities safer for everyone.
+76	SYSTEM	(APPLAUSE)
+77	TRUMP	We want all Americans to succeed, but that can’t happen in an environment of lawless chaos.
+78	TRUMP	We must restore integrity and the rule of law at our borders.
+79	SYSTEM	(APPLAUSE)
+80	TRUMP	For that reason, we will soon begin the construction of a great, great wall along our southern border.
+81	SYSTEM	(APPLAUSE)
+82	TRUMP	As we speak tonight, we are removing gang members, drug dealers, and criminals that threaten our communities and prey on our very innocent citizens.
+83	TRUMP	Bad ones are going out as I speak, and as I promised throughout the campaign.
+84	TRUMP	To any in Congress who do not believe we should enforce our laws, I would ask you this one question:  What would you say to the American family that loses their jobs, their income, or their loved one because America refused to uphold its laws and defend its borders?
+85	SYSTEM	(APPLAUSE)
+86	TRUMP	Our obligation is to serve, protect, and defend the citizens of the United States.
+87	TRUMP	We are also taking strong measures to protect our nation from radical Islamic terrorism.
+88	SYSTEM	(APPLAUSE)
+89	TRUMP	According to data provided by the Department of Justice, the vast majority of individuals convicted of terrorism and terrorism-related offenses since 9/11 came here from outside of our country.
+90	TRUMP	We have seen the attacks at home — from Boston to San Bernardino to the Pentagon, and, yes, even the World Trade Center.
+91	TRUMP	We have seen the attacks in France, in Belgium, in Germany, and all over the world.
+92	TRUMP	It is not compassionate, but reckless, to allow uncontrolled entry from places where proper vetting cannot occur.
+93	TRUMP	Those given the high honor of admission to the United States should support this country and love its people and its values.
+94	TRUMP	It is not compassionate, but reckless to allow uncontrolled entry from places where proper vetting cannot occur.
+95	SYSTEM	(APPLAUSE)
+96	TRUMP	Those given the high honor of admission to the United States should support this country and love its people and its values.
+97	TRUMP	We cannot allow a beachhead of terrorism to form inside America.
+98	TRUMP	We cannot allow our nation to become a sanctuary for extremists.
+99	SYSTEM	(APPLAUSE)
+100	TRUMP	That is why my administration has been working on improved vetting procedures, and we will shortly take new steps to keep our nation safe and to keep out those out who will do us harm.
+101	SYSTEM	(APPLAUSE)
+102	TRUMP	As promised, I directed the Department of Defense to develop a plan to demolish and destroy ISIS — a network of lawless savages that have slaughtered Muslims and Christians, and men, and women, and children of all faiths and all beliefs.
+103	TRUMP	We will work with our allies, including our friends and allies in the Muslim world, to extinguish this vile enemy from our planet.
+104	SYSTEM	(APPLAUSE)
+105	TRUMP	I have also imposed new sanctions on entities and individuals who support Iran’s ballistic missile program, and reaffirmed our unbreakable alliance with the State of Israel.
+106	SYSTEM	(APPLAUSE)
+107	TRUMP	Finally, I have kept my promise to appoint a justice to the United States Supreme Court, from my list of 20 judges, who will defend our Constitution.
+108	SYSTEM	(APPLAUSE)
+109	TRUMP	I am greatly honored to have Maureen Scalia with us in the gallery tonight.
+110	SYSTEM	(APPLAUSE)
+111	TRUMP	Thank you, Maureen.
+112	TRUMP	Her late, great husband, Antonin Scalia, will forever be a symbol of American justice.
+113	TRUMP	To fill his seat, we have chosen Judge Neil Gorsuch, a man of incredible skill and deep devotion to the law.
+114	TRUMP	He was confirmed unanimously by the Court of Appeals, and I am asking the Senate to swiftly approve his nomination.
+115	SYSTEM	(APPLAUSE)
+116	TRUMP	Tonight, as I outline the next steps we must take as a country, we must honestly acknowledge the circumstances we inherited.
+117	TRUMP	Ninety-four million Americans are out of the labor force.
+118	TRUMP	Over 43 million people are now living in poverty, and over 43 million Americans are on food stamps.
+119	TRUMP	More than 1 in 5 people in their prime working years are not working.
+120	TRUMP	We have the worst financial recovery in 65 years.
+121	TRUMP	In the last eight years, the past administration has put on more new debt than nearly all of the other Presidents combined.
+122	TRUMP	We’ve lost more than one-fourth of our manufacturing jobs since NAFTA was approved, and we’ve lost 60,000 factories since China joined the World Trade Organization in 2001.
+123	TRUMP	Our trade deficit in goods with the world last year was nearly $800 billion dollars.
+124	TRUMP	And overseas we have inherited a series of tragic foreign policy disasters.
+125	TRUMP	Solving these and so many other pressing problems will require us to work past the differences of party.
+126	TRUMP	It will require us to tap into the American spirit that has overcome every challenge throughout our long and storied history.
+127	TRUMP	But to accomplish our goals at home and abroad, we must restart the engine of the American economy — making it easier for companies to do business in the United States, and much, much harder for companies to leave our country.
+128	SYSTEM	(APPLAUSE)
+129	TRUMP	Right now, American companies are taxed at one of the highest rates anywhere in the world.
+130	TRUMP	My economic team is developing historic tax reform that will reduce the tax rate on our companies so they can compete and thrive anywhere and with anyone.
+131	SYSTEM	(APPLAUSE)
+132	TRUMP	It will be a big, big cut.
+133	TRUMP	At the same time, we will provide massive tax relief for the middle class.
+134	TRUMP	We must create a level playing field for American companies and our workers.
+135	TRUMP	We have to do it.
+136	SYSTEM	(APPLAUSE)
+137	TRUMP	Currently, when we ship products out of America, many other countries make us pay very high tariffs and taxes.
+138	TRUMP	But when foreign companies ship their products into America, we charge them nothing, or almost nothing.
+139	TRUMP	I just met with officials and workers from a great American company, Harley-Davidson.
+140	TRUMP	In fact, they proudly displayed five of their magnificent motorcycles, made in the USA, on the front lawn of the White House.
+141	SYSTEM	(LAUGHTER)
+142	SYSTEM	(APPLAUSE)
+143	TRUMP	And they wanted me to ride one and I said, “No, thank you.”
+144	SYSTEM	(LAUGHTER)
+145	TRUMP	At our meeting, I asked them, how are you doing, how is business?
+146	TRUMP	They said that it’s good.
+147	TRUMP	I asked them further, how are you doing with other countries, mainly international sales?
+148	TRUMP	They told me — without even complaining, because they have been so mistreated for so long that they’ve become used to it — that it’s very hard to do business with other countries because they tax our goods at such a high rate.
+149	TRUMP	They said that in the case of another country, they taxed their motorcycles at 100 percent.
+150	TRUMP	They weren’t even asking for a change.
+151	TRUMP	But I am.
+152	SYSTEM	(LAUGHTER)
+153	TRUMP	I believe strongly in free trade but it also has to be fair trade.
+154	TRUMP	It’s been a long time since we had fair trade.
+155	TRUMP	The first Republican President, Abraham Lincoln, warned that the “abandonment of the protective policy by the American government… will produce want and ruin among our people.”
+156	TRUMP	Lincoln was right — and it’s time we heeded his advice and his words.
+157	SYSTEM	(APPLAUSE)
+158	TRUMP	I am not going to let America and its great companies and workers be taken advantage of us any longer.
+159	TRUMP	They have taken advantage of our country.
+160	TRUMP	No longer.
+161	SYSTEM	(APPLAUSE)
+162	TRUMP	I am going to bring back millions of jobs.
+163	TRUMP	Protecting our workers also means reforming our system of legal immigration.
+164	SYSTEM	(APPLAUSE)
+165	TRUMP	The current, outdated system depresses wages for our poorest workers, and puts great pressure on taxpayers.
+166	TRUMP	Nations around the world, like Canada, Australia and many others, have a merit-based immigration system.
+167	SYSTEM	(APPLAUSE)
+168	TRUMP	It’s a basic principle that those seeking to enter a country ought to be able to support themselves financially.
+169	TRUMP	Yet, in America, we do not enforce this rule, straining the very public resources that our poorest citizens rely upon.
+170	TRUMP	According to the National Academy of Sciences, our current immigration system costs America’s taxpayers many billions of dollars a year.
+171	TRUMP	Switching away from this current system of lower-skilled immigration, and instead adopting a merit-based system, we will have so many more benefits.
+172	TRUMP	It will save countless dollars, raise workers’ wages, and help struggling families — including immigrant families — enter the middle class.
+173	TRUMP	And they will do it quickly, and they will be very, very happy, indeed.
+174	SYSTEM	(APPLAUSE)
+175	TRUMP	I believe that real and positive immigration reform is possible, as long as we focus on the following goals:  To improve jobs and wages for Americans; to strengthen our nation’s security; and to restore respect for our laws.
+176	TRUMP	If we are guided by the wellbeing of American citizens, then I believe Republicans and Democrats can work together to achieve an outcome that has eluded our country for decades.
+177	SYSTEM	(APPLAUSE)
+178	TRUMP	Another Republican President, Dwight D. Eisenhower, initiated the last truly great national infrastructure program — the building of the Interstate Highway System.
+179	TRUMP	The time has come for a new program of national rebuilding.
+180	SYSTEM	(APPLAUSE)
+181	TRUMP	America has spent approximately six trillion dollars in the Middle East, all this while our infrastructure at home is crumbling.
+182	TRUMP	With this six trillion dollars we could have rebuilt our country – twice.
+183	TRUMP	And maybe even three times if we had people who had the ability to negotiate.
+184	TRUMP	To launch our national rebuilding, I will be asking Congress to approve legislation that produces a $1 trillion investment in infrastructure of the United States — financed through both public and private capital — creating millions of new jobs.
+185	SYSTEM	(APPLAUSE)
+186	TRUMP	This effort will be guided by two core principles:  buy American and hire American.
+187	SYSTEM	(APPLAUSE)
+188	TRUMP	Tonight, I am also calling on this Congress to repeal and replace Obamacare —
+189	SYSTEM	(APPLAUSE)
+190	TRUMP	— with reforms that expand choice, increase access, lower costs, and, at the same time, provide better healthcare.
+191	SYSTEM	(APPLAUSE)
+192	TRUMP	Mandating every American to buy government-approved health insurance was never the right solution for our country.
+193	SYSTEM	(APPLAUSE)
+194	TRUMP	The way to make health insurance available to everyone is to lower the cost of health insurance, and that is what we are going do.
+195	SYSTEM	(APPLAUSE)
+196	TRUMP	Obamacare premiums nationwide have increased by double and triple digits.
+197	TRUMP	As an example, Arizona went up 116 percent last year alone.
+198	TRUMP	Governor Matt Bevin of Kentucky just said Obamacare is failing in his State — it is unsustainable and collapsing.
+199	TRUMP	One-third of counties have only one insurer, and they are losing them fast.
+200	TRUMP	They are losing them so fast.
+201	TRUMP	They are leaving, and many Americans have no choice at all.
+202	TRUMP	There’s no choice left.
+203	TRUMP	Remember when you were told that you could keep your doctor and keep your plan?
+204	TRUMP	We now know that all of those promises have been totally broken.
+205	TRUMP	Obamacare is collapsing, and we must act decisively to protect all Americans.
+206	SYSTEM	(APPLAUSE)
+207	TRUMP	Action is not a choice, it is a necessity.
+208	TRUMP	So I am calling on all Democrats and Republicans in Congress to work with us to save Americans from this imploding Obamacare disaster.
+209	SYSTEM	(APPLAUSE)
+210	TRUMP	Here are the principles that should guide the Congress as we move to create a better healthcare system for all Americans:
+211	TRUMP	First, we should ensure that Americans with preexisting conditions have access to coverage, and that we have a stable transition for Americans currently enrolled in the healthcare exchanges.
+212	SYSTEM	(APPLAUSE)
+213	TRUMP	Secondly, we should help Americans purchase their own coverage through the use of tax credits and expanded Health Savings Accounts — but it must be the plan they want, not the plan forced on them by our government.
+214	SYSTEM	(APPLAUSE)
+215	TRUMP	Thirdly, we should give our great state governors the resources and flexibility they need with Medicaid to make sure no one is left out.
+216	SYSTEM	(APPLAUSE)
+217	TRUMP	Fourth, we should implement legal reforms that protect patients and doctors from unnecessary costs that drive up the price of insurance, and work to bring down the artificially high price of drugs, and bring them down immediately.
+218	SYSTEM	(APPLAUSE)
+219	TRUMP	And finally, the time has come to give Americans the freedom to purchase health insurance across state lines —
+220	SYSTEM	(APPLAUSE)
+221	TRUMP	which will create a truly competitive national marketplace that will bring costs way down and provide far better care.
+222	TRUMP	So important.
+223	TRUMP	Everything that is broken in our country can be fixed.
+224	TRUMP	Every problem can be solved.
+225	TRUMP	And every hurting family can find healing and hope.
+226	TRUMP	Our citizens deserve this, and so much more — so why not join forces and finally get the job done, and get it done right?
+227	SYSTEM	(APPLAUSE)
+228	TRUMP	On this and so many other things, Democrats and Republicans should get together and unite for the good of our country and for the good of the American people.
+229	SYSTEM	(APPLAUSE)
+230	TRUMP	My administration wants to work with members in both parties to make childcare accessible and affordable, to help ensure new parents that they have paid family leave, to invest in women’s health, and to promote clean air and clear water, and to rebuild our military and our infrastructure.
+231	TRUMP	True love for our people requires us to find common ground, to advance the common good, and to cooperate on behalf of every American child who deserves a much brighter future.
+232	TRUMP	An incredible young woman is with us this evening, who should serve as an inspiration to us all.
+233	TRUMP	Today is Rare Disease Day, and joining us in the gallery is a rare disease survivor, Megan Crowley.
+234	SYSTEM	(APPLAUSE)
+235	TRUMP	Megan was diagnosed with Pompe disease, a rare and serious illness, when she was 15 months old.
+236	TRUMP	She was not expected to live past five.
+237	TRUMP	On receiving this news, Megan’s dad, John, fought with everything he had to save the life of his precious child.
+238	TRUMP	He founded a company to look for a cure, and helped develop the drug that saved Megan’s life.
+239	TRUMP	Today she is 20 years old and a sophomore at Notre Dame.
+240	SYSTEM	(APPLAUSE)
+241	TRUMP	Megan’s story is about the unbounded power of a father’s love for a daughter.
+242	TRUMP	But our slow and burdensome approval process at the Food and Drug Administration keeps too many advances, like the one that saved Megan’s life, from reaching those in need.
+243	TRUMP	If we slash the restraints, not just at the FDA but across our government, then we will be blessed with far more miracles just like Megan.
+244	SYSTEM	(APPLAUSE)
+245	TRUMP	In fact, our children will grow up in a nation of miracles.
+246	TRUMP	But to achieve this future, we must enrich the mind and the souls of every American child.
+247	TRUMP	Education is the civil rights issue of our time.
+248	SYSTEM	(APPLAUSE)
+249	TRUMP	I am calling upon members of both parties to pass an education bill that funds school choice for disadvantaged youth, including millions of African American and Latino children.
+250	SYSTEM	(APPLAUSE)
+251	TRUMP	These families should be free to choose the public, private, charter, magnet, religious, or home school that is right for them.
+252	SYSTEM	(APPLAUSE)
+253	TRUMP	Joining us tonight in the gallery is a remarkable woman, Denisha Merriweather.
+254	TRUMP	As a young girl, Denisha struggled in school and failed third grade twice.
+255	TRUMP	But then she was able to enroll in a private center for learning — a great learning center — with the help of a tax credit and a scholarship program.
+256	TRUMP	Today, she is the first in her family to graduate, not just from high school, but from college.
+257	TRUMP	Later this year she will get her master’s degree in social work.
+258	TRUMP	We want all children to be able to break the cycle of poverty just like Denisha.
+259	SYSTEM	(APPLAUSE)
+260	TRUMP	But to break the cycle of poverty, we must also break the cycle of violence.
+261	TRUMP	The murder rate in 2015 experienced its largest single-year increase in nearly half a century.
+262	TRUMP	In Chicago, more than 4,000 people were shot last year alone, and the murder rate so far this year has been even higher.
+263	TRUMP	This is not acceptable in our society.
+264	SYSTEM	(APPLAUSE)
+265	TRUMP	Every American child should be able to grow up in a safe community, to attend a great school, and to have access to a high-paying job.
+266	SYSTEM	(APPLAUSE)
+267	TRUMP	But to create this future, we must work with, not against — not against — the men and women of law enforcement.
+268	SYSTEM	(APPLAUSE)
+269	TRUMP	We must build bridges of cooperation and trust — not drive the wedge of disunity and, really, it’s what it is, division.
+270	TRUMP	It’s pure, unadulterated division.
+271	TRUMP	We have to unify.
+272	TRUMP	Police and sheriffs are members of our community.
+273	TRUMP	They’re friends and neighbors, they’re mothers and fathers, sons and daughters — and they leave behind loved ones every day who worry about whether or not they’ll come home safe and sound.
+274	TRUMP	We must support the incredible men and women of law enforcement.
+275	SYSTEM	(APPLAUSE)
+276	TRUMP	And we must support the victims of crime.
+277	TRUMP	I have ordered the Department of Homeland Security to create an office to serve American victims.
+278	TRUMP	The office is called VOICE — Victims of Immigration Crime Engagement.
+279	TRUMP	We are providing a voice to those who have been ignored by our media and silenced by special interests.
+280	SYSTEM	(APPLAUSE)
+281	TRUMP	Joining us in the audience tonight are four very brave Americans whose government failed them.
+282	TRUMP	Their names are Jamiel Shaw, Susan Oliver, Jenna Oliver, and Jessica Davis.
+283	TRUMP	Jamiel’s 17-year-old son was viciously murdered by an illegal immigrant gang member who had just been released from prison.
+284	TRUMP	Jamiel Shaw, Jr. was an incredible young man, with unlimited potential who was getting ready to go to college where he would have excelled as a great college quarterback.
+285	TRUMP	But he never got the chance.
+286	TRUMP	His father, who is in the audience tonight, has become a very good friend of mine.
+287	TRUMP	Jamiel, thank you.
+288	TRUMP	Thank you.
+289	SYSTEM	(APPLAUSE)
+290	TRUMP	Also with us are Susan Oliver and Jessica Davis.
+291	TRUMP	Their husbands, Deputy Sheriff Danny Oliver and Detective Michael Davis, were slain in the line of duty in California.
+292	TRUMP	They were pillars of their community.
+293	TRUMP	These brave men were viciously gunned down by an illegal immigrant with a criminal record and two prior deportations.
+294	TRUMP	Should have never been in our country.
+295	TRUMP	Sitting with Susan is her daughter, Jenna.
+296	TRUMP	Jenna, I want you to know that your father was a hero, and that tonight you have the love of an entire country supporting you and praying for you.
+297	SYSTEM	(APPLAUSE)
+298	TRUMP	To Jamiel, Jenna, Susan and Jessica, I want you to know that we will never stop fighting for justice.
+299	TRUMP	Your loved ones will never, ever be forgotten.
+300	TRUMP	We will always honor their memory.
+301	SYSTEM	(APPLAUSE)
+302	TRUMP	Finally, to keep America safe, we must provide the men and women of the United States military with the tools they need to prevent war — if they must — they have to fight and they only have to win.
+303	SYSTEM	(APPLAUSE)
+304	TRUMP	I am sending Congress a budget that rebuilds the military, eliminates the defense sequester — 
+305	SYSTEM	(APPLAUSE)
+306	TRUMP	— and calls for one of the largest increases in national defense spending in American history.
+307	TRUMP	My budget will also increase funding for our veterans.
+308	TRUMP	Our veterans have delivered for this nation, and now we must deliver for them.
+309	SYSTEM	(APPLAUSE)
+310	TRUMP	The challenges we face as a nation are great, but our people are even greater.
+311	TRUMP	And none are greater or braver than those who fight for America in uniform.
+312	SYSTEM	(APPLAUSE)
+313	TRUMP	We are blessed to be joined tonight by Carryn Owens, the widow of a U.S. Navy Special Operator, Senior Chief William “Ryan” Owens.
+314	TRUMP	Ryan died as he lived:  a warrior and a hero, battling against terrorism and securing our nation.
+315	SYSTEM	(APPLAUSE)
+316	TRUMP	I just spoke to our great General Mattis, just now, who reconfirmed that — and I quote — “Ryan was a part of a highly successful raid that generated large amounts of vital intelligence that will lead to many more victories in the future against our enemies.”
+317	TRUMP	Ryan’s legacy is etched into eternity.
+318	TRUMP	Thank you.
+319	SYSTEM	(APPLAUSE)
+320	TRUMP	And Ryan is looking down, right now — you know that — and he is very happy because I think he just broke a record.
+321	SYSTEM	(LAUGHTER)
+322	SYSTEM	(APPLAUSE)
+323	TRUMP	For as the Bible teaches us, “There is no greater act of love than to lay down one’s life for one’s friends.”
+324	TRUMP	Ryan laid down his life for his friends, for his country, and for our freedom.
+325	TRUMP	And we will never forget Ryan.
+326	SYSTEM	(APPLAUSE)
+327	TRUMP	To those allies who wonder what kind of a friend America will be, look no further than the heroes who wear our uniform.
+328	TRUMP	Our foreign policy calls for a direct, robust and meaningful engagement with the world.
+329	TRUMP	It is American leadership based on vital security interests that we share with our allies all across the globe.
+330	TRUMP	We strongly support NATO, an alliance forged through the bonds of two world wars that dethroned fascism, and a Cold War, and defeated communism.
+331	SYSTEM	(APPLAUSE)
+332	TRUMP	But our partners must meet their financial obligations.
+333	TRUMP	And now, based on our very strong and frank discussions, they are beginning to do just that.
+334	TRUMP	In fact, I can tell you, the money is pouring in.
+335	TRUMP	Very nice.
+336	SYSTEM	(APPLAUSE)
+337	TRUMP	We expect our partners — whether in NATO, the Middle East, or in the Pacific — to take a direct and meaningful role in both strategic and military operations, and pay their fair share of the cost.
+338	TRUMP	Have to do that.
+339	TRUMP	We will respect historic institutions, but we will respect the foreign rights of all nations, and they have to respect our rights as a nation also.
+340	SYSTEM	(APPLAUSE)
+341	TRUMP	Free nations are the best vehicle for expressing the will of the people, and America respects the right of all nations to chart their own path.
+342	TRUMP	My job is not to represent the world.
+343	TRUMP	My job is to represent the United States of America.
+344	SYSTEM	(APPLAUSE)
+345	TRUMP	But we know that America is better off when there is less conflict, not more.
+346	TRUMP	We must learn from the mistakes of the past.
+347	TRUMP	We have seen the war and the destruction that have ravaged and raged throughout the world — all across the world.
+348	TRUMP	The only long-term solution for these humanitarian disasters, in many cases, is to create the conditions where displaced persons can safely return home and begin the long, long process of rebuilding.
+349	SYSTEM	(APPLAUSE)
+350	TRUMP	America is willing to find new friends, and to forge new partnerships, where shared interests align.
+351	TRUMP	We want harmony and stability, not war and conflict.
+352	TRUMP	We want peace, wherever peace can be found.
+353	TRUMP	America is friends today with former enemies.
+354	TRUMP	Some of our closest allies, decades ago, fought on the opposite side of these terrible, terrible wars.
+355	TRUMP	This history should give us all faith in the possibilities for a better world.
+356	TRUMP	Hopefully, the 250th year for America will see a world that is more peaceful, more just, and more free.
+357	TRUMP	On our 100th anniversary, in 1876, citizens from across our nation came to Philadelphia to celebrate America’s centennial.
+358	TRUMP	At that celebration, the country’s builders and artists and inventors showed off their wonderful creations.
+359	TRUMP	Alexander Graham Bell displayed his telephone for the first time.
+360	TRUMP	Remington unveiled the first typewriter.
+361	TRUMP	An early attempt was made at electric light.
+362	TRUMP	Thomas Edison showed an automatic telegraph and an electric pen.
+363	TRUMP	Imagine the wonders our country could know in America’s 250th year.
+364	SYSTEM	(APPLAUSE)
+365	TRUMP	Think of the marvels we can achieve if we simply set free the dreams of our people.
+366	TRUMP	Cures to the illnesses that have always plagued us are not too much to hope.
+367	TRUMP	American footprints on distant worlds are not too big a dream.
+368	TRUMP	Millions lifted from welfare to work is not too much to expect.
+369	TRUMP	And streets where mothers are safe from fear, schools where children learn in peace, and jobs where Americans prosper and grow are not too much to ask.
+370	SYSTEM	(APPLAUSE)
+371	TRUMP	When we have all of this, we will have made America greater than ever before — for all Americans.
+372	TRUMP	This is our vision.
+373	TRUMP	This is our mission.
+374	TRUMP	But we can only get there together.
+375	TRUMP	We are one people, with one destiny.
+376	TRUMP	We all bleed the same blood.
+377	TRUMP	We all salute the same great American flag.
+378	TRUMP	And we all are made by the same God.
+379	SYSTEM	(APPLAUSE)
+380	TRUMP	When we fulfill this vision, when we celebrate our 250 years of glorious freedom, we will look back on tonight as when this new chapter of American Greatness began.
+381	TRUMP	The time for small thinking is over.
+382	TRUMP	The time for trivial fights is behind us.
+383	TRUMP	We just need the courage to share the dreams that fill our hearts, the bravery to express the hopes that stir our souls, and the confidence to turn those hopes and those dreams into action.
+384	TRUMP	From now on, America will be empowered by our aspirations, not burdened by our fears; inspired by the future, not bound by the failures of the past; and guided by our vision, not blinded by our doubts.
+385	TRUMP	I am asking all citizens to embrace this renewal of the American spirit.
+386	TRUMP	I am asking all members of Congress to join me in dreaming big, and bold, and daring things for our country.
+387	TRUMP	I am asking everyone watching tonight to seize this moment.
+388	TRUMP	Believe in yourselves, believe in your future, and believe, once more, in America.
+389	TRUMP	Thank you, God bless you, and God bless the United States.
+390	SYSTEM	(APPLAUSE)

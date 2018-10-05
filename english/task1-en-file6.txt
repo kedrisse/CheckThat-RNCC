@@ -1,0 +1,375 @@
+1	TRUMP	Thank you, thank you.
+2	TRUMP	Thank you very much.
+3	TRUMP	Friends, delegates and fellow Americans: I humbly and gratefully accept your nomination for the presidency of the United States.
+4	TRUMP	USA, USA, USA, USA, USA.
+5	TRUMP	Who would have believed that when we started this journey because we are a team would have received almost 14 million votes the most in the history of the Republican party and that the Republican party would get 60 percent more votes than it received eight years ago.
+6	TRUMP	Who would have believed this.
+7	TRUMP	Who would have believed this.
+8	TRUMP	The Democrats on the other hand received 20 percent fewer votes than they got four years ago.
+9	TRUMP	Not so good.
+10	TRUMP	Not so good.
+11	TRUMP	Together, we will lead our party back to the White House, and we will lead our country back to safety, prosperity, and peace.
+12	TRUMP	We will be a country of generosity and warmth.
+13	TRUMP	But we will also be a country of law and order.
+14	TRUMP	Our Convention occurs at a moment of crisis for our nation.
+15	TRUMP	The attacks on our police, and the terrorism of our cities, threaten our very way of life.
+16	TRUMP	Any politician who does not grasp this danger is not fit to lead our country.
+17	TRUMP	Americans watching this address tonight have seen the recent images of violence in our streets and the chaos in our communities.
+18	TRUMP	Many have witnessed this violence personally, some have even been its victims.
+19	TRUMP	I have a message for all of you: the crime and violence that today afflicts our nation will soon, and I mean very soon, come to an end.
+20	TRUMP	Beginning on January 20th of 2017, safety will be restored.
+21	TRUMP	The most basic duty of government is to defend the lives of its own citizens.
+22	TRUMP	Any government that fails to do so is a government unworthy to lead.
+23	TRUMP	It is finally time for a straightforward assessment of the state of our nation.
+24	TRUMP	I will present the facts plainly and honestly.
+25	TRUMP	We cannot afford to be so politically correct anymore.
+26	TRUMP	So if you want to hear the corporate spin, the carefully-crafted lies, and the media myths the Democrats are holding their convention next week.
+27	TRUMP	Go there.
+28	TRUMP	But here, at our convention, there will be no lies.
+29	TRUMP	We will honor the American people with the truth, and nothing else.
+30	TRUMP	These are the facts: Decades of progress made in bringing down crime are now being reversed by this Administration's rollback of criminal enforcement.
+31	TRUMP	Homicides last year increased by 17 percent in America's fifty largest cities.
+32	TRUMP	That's the largest increase in 25 years.
+33	TRUMP	In our nation's capital, killings have risen by 50 percent.
+34	TRUMP	They are up nearly 60% in nearby Baltimore.
+35	TRUMP	In the President's hometown of Chicago, more than 2,000 people have been the victims of shootings this year alone.
+36	TRUMP	And more than 4,000 have been killed in the Chicago area since he took office.
+37	TRUMP	The number of police officers killed in the line of duty has risen by almost 50% compared to this point last year.
+38	TRUMP	Nearly 180,000 illegal immigrants with criminal records, ordered deported from our country, are tonight roaming free to threaten peaceful citizens.
+39	TRUMP	The number of new illegal immigrant families who have crossed the border so far this year already exceeds the entire total from 2015.
+40	TRUMP	They are being released by the tens of thousands into our communities with no regard for the impact on public safety or resources.
+41	TRUMP	One such border-crosser was released and made his way to Nebraska.
+42	TRUMP	There, he ended the life of an innocent young girl named Sarah Root.
+43	TRUMP	She was 21 years-old, and was killed the day after graduating from college with a 4.0 Grade Point Average.
+44	TRUMP	Number one in her class.
+45	TRUMP	Her killer was then released a second time, and he is now a fugitive from the law.
+46	TRUMP	I've met Sarah's beautiful family.
+47	TRUMP	But to this Administration, their amazing daughter was just one more American life that wasn't worth protecting.
+48	TRUMP	No more.
+49	TRUMP	One more child to sacrifice on the order and on the altar of open borders.
+50	TRUMP	What about our economy?
+51	TRUMP	Again, I will tell you the plain facts that have been edited out of your nightly news and your morning newspaper: Nearly 4 in 10 African-American children are living in poverty, while 58% of African-American youth are now not employed.
+52	TRUMP	2 million more Latinos are in poverty today than when President Obama took his oath of office less than eight years ago.
+53	TRUMP	Another 14 million people have left the workforce entirely.
+54	TRUMP	Household incomes are down more than $4,000 since the year 2000.
+55	TRUMP	That's sixteen years ago.
+56	TRUMP	Our trade deficit has reached an all-time high think of this, think of this, our trade deficit is nearly $800 billion, think of that, 800 billion dollars, last year alone.
+57	TRUMP	We're going to fix that.
+58	TRUMP	The budget is no better.
+59	TRUMP	President Obama has almost doubled our national debt to more than $19 trillion, and growing.
+60	TRUMP	And yet, what do we have to show for it?
+61	TRUMP	Our roads and bridges are falling apart, our airports are Third World condition, and forty-three million Americans are on food stamps.
+62	TRUMP	Now let us consider the state of affairs abroad.
+63	TRUMP	Not only have our citizens endured domestic disaster, but they've lived through one international humiliation after another.
+64	TRUMP	One after another.
+65	TRUMP	We all remember the images of our sailors being forced to their knees by their Iranian captors at gunpoint.
+66	TRUMP	This was just prior to the signing of the Iran deal, which gave back to Iran $150 billion and gave us absolutely nothing – it will go down in history as one of the worst deals ever negotiated.
+67	TRUMP	Another humiliation came when president Obama drew a red line in Syria – and the whole world knew it meant absolutely nothing.
+68	TRUMP	In Libya, our consulate – the symbol of American prestige around the globe – was brought down in flames.
+69	TRUMP	America is far less safe – and the world is far less stable – than when Obama made the decision to put Hillary Clinton in charge of America's foreign policy.
+70	TRUMP	Let's defeat her in November, okay?
+71	TRUMP	I am certain that it was a decision that President Obama truly regrets.
+72	TRUMP	Her bad instincts and her bad judgment – something pointed out by Bernie Sanders – are what caused so many of the disasters unfolding today.
+73	TRUMP	Let's review the record.
+74	TRUMP	In 2009, pre-Hillary, ISIS was not even on the map.
+75	TRUMP	Libya was stable.
+76	TRUMP	Egypt was peaceful.
+77	TRUMP	Iraq was seeing and really a big big reduction in violence.
+78	TRUMP	Iran was being choked by sanctions.
+79	TRUMP	Syria was somewhat under control.
+80	TRUMP	After four years of Hillary Clinton, what do we have?
+81	TRUMP	ISIS has spread across the region, and the entire world.
+82	TRUMP	Libya is in ruins, and our Ambassador and his staff were left helpless to die at the hands of savage killers.
+83	TRUMP	Egypt was turned over to the radical Muslim brotherhood, forcing the military to retake control.
+84	TRUMP	Iraq is in chaos.
+85	TRUMP	Iran is on the path to nuclear weapons.
+86	TRUMP	Syria is engulfed in a civil war and a refugee crisis, now threatens the West.
+87	TRUMP	After fifteen years of wars in the Middle East, after trillions of dollars spent and thousands of lives lost, the situation is worse than it has ever been before.
+88	TRUMP	This is the legacy of Hillary Clinton: death, destruction, terrorism, and weakness.
+89	TRUMP	But Hillary Clinton's legacy does not have to be America's legacy.
+90	TRUMP	The problems we face now – poverty and violence at home, war and destruction abroad – will last only as long as we continue relying on the same politicians who created them in the first place.
+91	TRUMP	A change in leadership is required to produce a change in outcomes.
+92	TRUMP	Tonight, I will share with you my plan for action for America.
+93	TRUMP	The most important difference between our plan and that of our opponents, is that our plan will put America First.
+94	TRUMP	Americanism, not globalism, will be our credo.
+95	TRUMP	As long as we are led by politicians who will not put America First, then we can be assured that other nations will not treat America with respect.
+96	TRUMP	The respect that we deserve.
+97	TRUMP	The American People will come first once again.
+98	TRUMP	My plan will begin with safety at home – which means safe neighborhoods, secure borders, and protection from terrorism.
+99	TRUMP	There can be no prosperity without law and order.
+100	TRUMP	On the economy, I will outline reforms to add millions of new jobs and trillions in new wealth that can be used to rebuild America.
+101	TRUMP	A number of these reforms that I will outline tonight will be opposed by some of our nation's most powerful special interests.
+102	TRUMP	That's because these interests have rigged our political and economic system for their exclusive benefit.
+103	TRUMP	Believe me.
+104	TRUMP	It's for their benefit.
+105	TRUMP	Big business, elite media and major donors are lining up behind the campaign of my opponent because they know she will keep our rigged system in place.
+106	TRUMP	They are throwing money at her because they have total control over everything single thing she does.
+107	TRUMP	She is their puppet, and they pull the strings.
+108	TRUMP	That is why Hillary Clinton's message is that things will never change.
+109	TRUMP	Never ever.
+110	TRUMP	My message is that things have to change – and they have to change right now.
+111	TRUMP	Every day I wake up determined to deliver a better life for the people all across this nation that have been neglected, ignored, and abandoned.
+112	TRUMP	I have visited the laid-off factory workers, and the communities crushed by our horrible and unfair trade deals.
+113	TRUMP	These are the forgotten men and women of our country.
+114	TRUMP	And they are forgotten.
+115	TRUMP	But they're not going to be forgotten long.
+116	TRUMP	These are people who work hard but no longer have a voice.
+117	TRUMP	I am your voice.
+118	TRUMP	I have embraced crying mothers who have lost their children because our politicians put their personal agendas before the national good.
+119	TRUMP	I have no patience for injustice.
+120	TRUMP	How great are our police!
+121	TRUMP	And how great is Cleveland?
+122	TRUMP	Thank you.
+123	TRUMP	I have no patience for injustice.
+124	TRUMP	No tolerance for government incompetence of which there is so much, no sympathy for leaders who fail their citizens.
+125	TRUMP	When innocent people suffer, because our political system lacks the will, or the courage, or the basic decency to enforce our laws – or still worse, has sold out to some corporate lobbyist for cash – I am not able to look the other way.
+126	TRUMP	And I won't look the other way.
+127	TRUMP	And when a Secretary of State illegally stores her emails on a private server, deletes 33,000 of them so the authorities can't see her crime, puts our country at risk, lies about it in every different form and faces no consequence – I know that corruption has reached a level like never ever before in our country.
+128	TRUMP	When the FBI Director says that the Secretary of State was "extremely careless" and "negligent," in handling our classified secrets, I also know that these terms are minor compared to what she actually did.
+129	TRUMP	They were just used to save her from facing justice for her terrible, terrible crimes.
+130	TRUMP	In fact, her single greatest accomplishment may be committing such egregious crime and getting away with it – especially when others who have done far less, have paid so dearly.
+131	TRUMP	When that same Secretary of State rakes in millions and millions of dollars trading access and favors to special interests and foreign powers I know the time for action has come.
+132	TRUMP	I have joined the political arena so that the powerful can no longer beat up on people who cannot defend themselves.
+133	TRUMP	Nobody knows the system better than me.
+134	TRUMP	Which is why I alone can fix it.
+135	TRUMP	I have seen firsthand how the system is rigged against our citizens, just like it was rigged against Bernie Sanders – he never had a chance.
+136	TRUMP	Never had a chance.
+137	TRUMP	But his supporters will join our movement, because we will fix his biggest single issue: trade deals that strip our country of its jobs and strip us of our wealth as a country.
+138	TRUMP	Millions of Democrats will join our movement, because we are going to fix the system so it works fairly and justly for all Americans.
+139	TRUMP	In this cause, I am proud to have at my side the next Vice President of the United States: Governor Mike Pence of Indiana.
+140	TRUMP	And a great guy.
+141	TRUMP	We will bring the same economic success to America that Mike brought to Indiana.
+142	TRUMP	Which is amazing.
+143	TRUMP	He's a man of character and accomplishment.
+144	TRUMP	He's the man for the job.
+145	TRUMP	The first task for our new Administration will be to liberate our citizens from the crime and terrorism and lawlessness that threatens our community.
+146	TRUMP	America was shocked to its core when our police officers in Dallas were so brutally executed.
+147	TRUMP	Immediately after Dallas, we have seen continued threats and violence against our law enforcement officials.
+148	TRUMP	Law officers have been shot or killed in recent days in Georgia, Missouri, Wisconsin, Kansas, Michigan and Tennessee.
+149	TRUMP	On Sunday, more police were gunned down in Baton Rouge, Louisiana.
+150	TRUMP	Three were killed, and three were very, very badly injured.
+151	TRUMP	An attack on law enforcement is an attack on all Americans.
+152	TRUMP	I have a message to every last person threatening the peace on our streets and the safety of our police: when I take the oath of office next year, I will restore law and order to our country.
+153	TRUMP	Believe me.
+154	TRUMP	Believe me.
+155	TRUMP	I will work with, and appoint, the best and brightest prosecutors and law enforcement officials to get the job properly done.
+156	TRUMP	In this race for the White House, I am the Law And Order candidate.
+157	TRUMP	The irresponsible rhetoric of our President, who has used the pulpit of the presidency to divide us by race and color, has made America a more dangerous environment that frankly that I have ever seen of anybody in this room has ever watched or seen.
+158	TRUMP	This Administration has failed America's inner cities.
+159	TRUMP	Remember, it has failed America's inner cities.
+160	TRUMP	It's failed them on education.
+161	TRUMP	It's failed them on jobs.
+162	TRUMP	It's failed them on crime.
+163	TRUMP	It's failed them in every way and at every single level.
+164	TRUMP	When I am President, I will work to ensure that all of our kids are treated equally, and protected equally.
+165	TRUMP	Every action I take, I will ask myself: does this make better for young Americans in Baltimore, in Chicago, in Detroit, in Ferguson who have really, in every way folks, the same right to live out their dreams as any other child in America?
+166	TRUMP	Any other child.
+167	TRUMP	To make life safe for all of our citizens, we must also address the growing threats from outside the country.
+168	TRUMP	We are going to defeat the barbarians of ISIS and we're going to defeat them fast.
+169	TRUMP	Once again, France is the victim of brutal Islamic terrorism.
+170	TRUMP	Men, women and children viciously mowed down.
+171	TRUMP	Lives ruined.
+172	TRUMP	Families ripped apart.
+173	TRUMP	A nation in mourning.
+174	TRUMP	The damage and devastation that can be inflicted by Islamic radicals has been proven over and over – at the World Trade Center, at an office party in San Bernardino, at the Boston Marathon, at a military recruiting center in Chattanooga, Tennessee.
+175	TRUMP	And many many other locations.
+176	TRUMP	Only weeks ago, in Orlando, Florida, 49 wonderful Americans were savagely murdered by an Islamic terrorist.
+177	TRUMP	This time, the terrorist targeted LGBTQ community.
+178	TRUMP	No good, and we're going to stop it.
+179	TRUMP	As your President, I will do everything in my power to protect our LGBTQ citizens from the violence and oppression of a hateful foreign ideology.
+180	TRUMP	Believe me.
+181	TRUMP	And I have to say as a Republican it is so nice to hear you cheering for what I just said.
+182	TRUMP	Thank you.
+183	TRUMP	To protect us from terrorism, we need to focus on three things.
+184	TRUMP	We must have the best, absolutely the best gathering of intelligence anywhere in the world.
+185	TRUMP	The best.
+186	TRUMP	We must abandon the failed policy of nation building and regime change that Hillary Clinton pushed in Iraq, in Libya, in Egypt and in Syria.
+187	TRUMP	Instead, we must work with all of our allies who share our goal of destroying ISIS and stamping out Islamic terrorism and doing it now, doing it quickly.
+188	TRUMP	We're going to win.
+189	TRUMP	We're going to win fast.
+190	TRUMP	This includes working with our greatest ally in the region, the State of Israel.
+191	TRUMP	Recently, I have said NATO is obsolete because it did not properly cover terror.
+192	TRUMP	And also that many of the member countries were not paying their fair share.
+193	TRUMP	As usual, the United States has been picking up the costs.
+194	TRUMP	Shortly thereafter, it was announced that NATO will be setting up a new program in order to combat terrorism.
+195	TRUMP	A true step in the right direction.
+196	TRUMP	Lastly, and very importantly, we must immediately suspend immigration from any nation that has been compromised by terrorism until such time as proven vetting mechanisms have been put in place.
+197	TRUMP	We don't want them in our country.
+198	TRUMP	My opponent has called for a radical 550% increase in Syrian, think of this.
+199	TRUMP	Think of this, this is not believable but this is what's happening.
+200	TRUMP	A 550 percent increase in Syrian refugees on top of existing massive refugee flows coming into our country already under the leadership of President Obama.
+201	TRUMP	She proposes this despite the fact that there's no way to screen these refugees in order to find out who they are or where they come from.
+202	TRUMP	I only want to admit individuals into our country who will support our values and love our people.
+203	TRUMP	Anyone who endorses violence, hatred or oppression is not welcome in our country and never ever will be.
+204	TRUMP	Decades of record immigration have produced lower wages and higher unemployment for our citizens, especially for African-American and Latino workers.
+205	TRUMP	We are going to have an immigration system that works, but one that works for the American people.
+206	TRUMP	On Monday, we heard from three parents whose children were killed by illegal immigrants: Mary Ann Mendoza, Sabine Durden, and my friend Jamiel Shaw.
+207	TRUMP	They are just three brave representatives of many thousands who have suffered so greatly.
+208	TRUMP	Of all my travels in this country, nothing has affected me more, nothing even close I have to tell you, than the time I have spent with the mothers and fathers who have lost their children to violence spilling across our borders which we can solve.
+209	TRUMP	We have to solve it.
+210	TRUMP	These families have no special interests to represent them.
+211	TRUMP	There are no demonstrators to protect them and certainly none to protest on their behalf.
+212	TRUMP	My opponent will never meet with them, or share in their pain.
+213	TRUMP	Believe me.
+214	TRUMP	Instead, my opponent wants Sanctuary Cities.
+215	TRUMP	But where was the sanctuary for Kate Steinle?
+216	TRUMP	Where was the Sanctuary for the children of Mary Ann, and Sabine and Jamiel?
+217	TRUMP	Where was sanctuary for all the other, it's so sad to even be talking about it, because we can solve this problem so quickly.
+218	TRUMP	Where was the sanctuary for all of the Americans who have been so brutally murdered, and who have suffered so horribly?
+219	TRUMP	These wounded American families have been alone.
+220	TRUMP	But they are not alone any longer.
+221	TRUMP	Tonight, this candidate and the whole nation stand in their corner to support them, to send them our love, and to pledge in their honor that we will save countless more families from suffering and the same awful fate.
+222	TRUMP	<br>We are going to build a great border wall to stop illegal immigration, to stop the gangs and the violence, and to stop the drugs from pouring into our communities.
+223	TRUMP	I have been honored to receive the endorsement of America's Border Patrol Agents.
+224	TRUMP	And will work directly with them to protect the integrity of our lawful, lawful, lawful immigration system.
+225	TRUMP	Lawful.
+226	TRUMP	By ending catch-and-release on the border, we will end the cycle of human smuggling and violence.
+227	TRUMP	Illegal border crossings will go down.
+228	TRUMP	We will stop it, it won't be happening very much anymore.
+229	TRUMP	Believe me.
+230	TRUMP	Peace will be restored.
+231	TRUMP	By enforcing the rules for millions who overstay their visas, our laws will finally receive the respect that they deserve.
+232	TRUMP	Tonight, I want every American whose demands for immigration security have been denied – and every politician who has denied them – to listen very, very closely to the words I am about to say.
+233	TRUMP	On January 20th of 2017, the day I take the oath of office, Americans will finally wake up in a country where the laws of the United States are enforced.
+234	TRUMP	We are going to be considerate and compassionate to everyone.
+235	TRUMP	But my greatest compassion will be for our own struggling citizens.
+236	TRUMP	USA.
+237	TRUMP	USA.
+238	TRUMP	USA.
+239	TRUMP	My plan is the exact opposite of the radical and dangerous immigration policy of Hillary Clinton.
+240	TRUMP	Americans want relief from uncontrolled immigration.
+241	TRUMP	Which is what we have now.
+242	TRUMP	Communities want relief.
+243	TRUMP	Yet Hillary Clinton is proposing mass amnesty, mass immigration, and mass lawlessness.
+244	TRUMP	Her plan will overwhelm your schools and hospitals, further reduce your jobs and wages, and make it harder for recent immigrants to escape the tremendous cycle poverty that they're going through right now and make it almost impossible for them to join the middle class.
+245	TRUMP	I have a different vision for our workers.
+246	TRUMP	It begins with a new, fair trade policy that protects our jobs and stands up to countries that cheat.
+247	TRUMP	Of which there are many.
+248	TRUMP	It's been a signature message of my campaign from day one, and it will be a signature feature of my presidency from the moment I take the oath of office.
+249	TRUMP	I have made billions of dollars in business making deals – now I'm going to make our country rich again.
+250	TRUMP	Using the greatest business people in the world, which our country has, I am going to turn our bad trade agreements into great trade agreements.
+251	TRUMP	America has lost nearly-one third of its manufacturing jobs since 1997, following the enactment of disastrous trade deals supported by Bill and Hillary Clinton.
+252	TRUMP	Remember, it was Bill Clinton who signed NAFTA, one of the worst economic deals ever made by our country.
+253	TRUMP	Or frankly, any other country.
+254	TRUMP	Never ever again.
+255	TRUMP	I am going to bring our jobs back to Ohio and Pennsylvania, and New York, and Michigan, and all of America – and I am not going to let companies move to other countries, firing their employees along the way, without consequence.
+256	TRUMP	Not going to happen anymore.
+257	TRUMP	My opponent, on the other hand, has supported virtually every trade agreement that has been destroying our middle class.
+258	TRUMP	She supported NAFTA, and she supported China's entrance into the World Trade Organization – another one of her husband's colossal mistakes and disasters.
+259	TRUMP	She supported the job-killing trade deal with South Korea.
+260	TRUMP	She supported the Trans-Pacific Partnership.
+261	TRUMP	Which will not only destroy our manufacturers, but will make America subject to the rulings of foreign governments.
+262	TRUMP	And it's not going to happen.
+263	TRUMP	I pledge to never sign any trade agreement that hurts our workers or that diminishes our freedom or independence.
+264	TRUMP	We will never sign bad trade deals.
+265	TRUMP	America First again.
+266	TRUMP	America First.
+267	TRUMP	Instead, I will make individual deals with individual countries.
+268	TRUMP	No longer will we enter into these massive transactions, with many countries, that are thousands of pages long – and which no one from our country even reads or understands.
+269	TRUMP	We are going to enforce all trade violations, against any country that cheats.
+270	TRUMP	This includes stopping China's outrageous theft of intellectual property, along with their illegal product dumping, and their devastating currency manipulation.
+271	TRUMP	They are the greatest that ever came about.
+272	TRUMP	They are the greatest currency manipulators ever.
+273	TRUMP	Our horrible trade agreements with China and many others will be totally renegotiated.
+274	TRUMP	That includes renegotiating NAFTA to get a much better deal for America – and we'll walk away if we don't get that kind of a deal.
+275	TRUMP	Our country is going to start building and making things again.
+276	TRUMP	Next comes the reform of our tax laws, regulations and energy rules.
+277	TRUMP	While Hillary Clinton plans a massive, and I mean massive, tax increase, I have proposed the largest tax reduction of any candidate who has run for the president this year – Democrat or Republican.
+278	TRUMP	.
+279	TRUMP	Middle-income Americans and businesses will experience profound relief, and taxes will be greatly simplified for everyone.
+280	TRUMP	I mean everyone.
+281	TRUMP	America is one of the highest-taxed nations in the world.
+282	TRUMP	Reducing taxes will cause new companies and new jobs to come roaring back into our country.
+283	TRUMP	Believe me, it'll happen and it'll happen fast.
+284	TRUMP	Then we are going to deal with the issue of regulation, one of the greatest job-killers of them all.
+285	TRUMP	Excessive regulation is costing our country as much as $2 trillion a year, and we will end it very, very quickly.
+286	TRUMP	We are going to lift the restrictions on the production of American energy.
+287	TRUMP	This will produce more than $20 trillion in job-creating economic activity over the next four decades.
+288	TRUMP	My opponent, on the other hand, wants to put the great miners and the great steelworkers of our country out of work and out of business – that will never happen with Donald J Trump as president.
+289	TRUMP	Our steelworkers and our miners are going back to work again.
+290	TRUMP	With these new economic policies, trillions and trillions of dollars will start flowing into our country.
+291	TRUMP	This new wealth will improve the quality of life for all Americans – We will build the roads, highways, bridges, tunnels, airports, and the railways of tomorrow.
+292	TRUMP	This, in turn, will create millions of more jobs.
+293	TRUMP	We will rescue kids from failing schools by helping their parents send them to a safe school of their choice.
+294	TRUMP	My opponent would rather protect bureaucrats than serve American children.
+295	TRUMP	And that's what she's doing.
+296	TRUMP	And that's what's she's done.
+297	TRUMP	We will repeal and replace disastrous Obamacare.
+298	TRUMP	You will be able to choose your own doctor again.
+299	TRUMP	And we will fix TSA at the airports!
+300	TRUMP	Which is a total disaster.
+301	TRUMP	We're going to work with all of our students who are drowning in debt to take the pressure off these young people just starting out in their adult lives.
+302	TRUMP	Tremendous problem.
+303	TRUMP	We will completely rebuild our depleted military, and the countries that we protect, at a massive cost to us, will be asked to pay their fair share.
+304	TRUMP	We will take care of our great Veterans like they have never been taken care of before.
+305	TRUMP	My just released 10 point plan has received tremendous veteran support.
+306	TRUMP	We will guarantee those who serve this country will be able to visit the doctor or hospital of their choice without waiting five days on a line and dying.
+307	TRUMP	My opponent dismissed the VA scandal.
+308	TRUMP	One more sign of how out of touch she really is.
+309	TRUMP	We are going to ask every Department Head in government to provide a list of wasteful spending projects that we can eliminate in my first 100 days.
+310	TRUMP	The politicians have talked about this for years, but I'm going to do it.
+311	TRUMP	We are going to appoint justices of the United States Supreme Court who will uphold our laws and our Constitution.
+312	TRUMP	The replacement of our beloved Justice Scalia will be a person of similar views and principles and judicial philosophies.
+313	TRUMP	Very important.
+314	TRUMP	This will be one of the most important issues decided by this election.
+315	TRUMP	My opponent wants to essentially abolish the 2nd amendment.
+316	TRUMP	I, on the other hand, received the early and strong endorsement of the National Rifle Association and will protect the right of all Americans to keep their families safe.
+317	TRUMP	At this moment, I would like to thank the evangelical and religious community because I'll tell you what.
+318	TRUMP	Because the support they've given me, and I'm not sure I totally deserve it, has been so amazing.
+319	TRUMP	And has had such a big reason for me being here tonight.
+320	TRUMP	True.
+321	TRUMP	So true.
+322	TRUMP	They have so much to contribute to our politics, yet our laws prevent you from speaking your minds from your own pulpits.
+323	TRUMP	An amendment, pushed by Lyndon Johnson, many years ago, threatens religious institutions with a loss of their tax-exempt status if they openly advocate their political views.
+324	TRUMP	Their voice has been taken away.
+325	TRUMP	I am going to work very hard to repeal that language and to protect free speech for all Americans.
+326	TRUMP	We can accomplish these great things, and so much more – all we need to do is start believing in ourselves and in our country again.
+327	TRUMP	Start believing.
+328	TRUMP	It is time to show the whole world that America Is Back – bigger, and better and stronger than ever before.
+329	TRUMP	In this journey, I'm so lucky to have at my side my wife Melania and my wonderful children, Don, Ivanka, Eric, Tiffany, and Barron: you will always be my greatest source of pride and joy.
+330	TRUMP	And by the way, Melania and Ivanka, did they do a job.
+331	TRUMP	My Dad, Fred Trump, was the smartest and hardest working man I ever knew.
+332	TRUMP	I wonder sometimes what he'd say if he were here to see this, and to see me, tonight.
+333	TRUMP	It's because of him that I learned, from my youngest age, to respect the dignity of work and the dignity of working people.
+334	TRUMP	He was a guy most comfortable in the company of bricklayers, and carpenters, and electricians and I have a lot of that in me also.
+335	TRUMP	I love those people.
+336	TRUMP	Then there's my mother, Mary.
+337	TRUMP	She was strong, but also warm and fair-minded.
+338	TRUMP	She was a truly great mother.
+339	TRUMP	She was also one of the most honest and charitable people I have ever known, and a great great judge of character.
+340	TRUMP	She could pick 'em out from anywhere.
+341	TRUMP	To my sisters Mary Anne and Elizabeth, my brother Robert and my late brother Fred, I will always give you my love you are most special to me.
+342	TRUMP	I have had a truly great life in business.
+343	TRUMP	But now, my sole and exclusive mission is to go to work for our country – to go to work for you.
+344	TRUMP	It's time to deliver a victory for the American people.
+345	TRUMP	We don't win anymore, but we are going to start winning again.
+346	TRUMP	But to do that, we must break free from the petty politics of the past.
+347	TRUMP	America is a nation of believers, dreamers, and strivers that is being led by a group of censors, critics, and cynics.
+348	TRUMP	Remember: all of the people telling you you can't have the country you want, are the same people telling you that wouldn't stand, I mean they said Trump doesn't have a chance of being here tonight.
+349	TRUMP	Not a chance.
+350	TRUMP	The same people.
+351	TRUMP	Oh we love defeating those people.
+352	TRUMP	Don't we?
+353	TRUMP	Don't we?
+354	TRUMP	Love it.
+355	TRUMP	Love it.
+356	TRUMP	Love it.
+357	TRUMP	No longer can we rely on those same people in the media media, and politics, who will say anything to keep a rigged system in place.
+358	TRUMP	Instead, we must choose to Believe In America.
+359	TRUMP	History is watching us now.
+360	TRUMP	We don't have much time, but history is watching.
+361	TRUMP	It's waiting to see if we will rise to the occasion, and if we will show the whole world that America is still free and independent and strong.
+362	TRUMP	I am asking for your support tonight so I can be your champion in the White House.
+363	TRUMP	And I will be your champion.
+364	TRUMP	My opponent asks her supporters to recite a three-word loyalty pledge.
+365	TRUMP	It reads: "I'm With Her".
+366	TRUMP	I choose to recite a different pledge.
+367	TRUMP	My pledge reads: "I'M WITH YOU – THE AMERICAN PEOPLE."
+368	TRUMP	I am your voice.
+369	TRUMP	So to every parent who dreams for their child, and every child who dreams for their future, I say these words to you tonight: I am With You, and I will fight for you, and I will win for you.
+370	TRUMP	To all Americans tonight, in all of our cities and in all of our towns, I make this promise: We Will Make America Strong Again.
+371	TRUMP	We Will Make America Proud Again.
+372	TRUMP	We Will Make America Safe Again.
+373	TRUMP	And We Will Make America Great Again.
+374	TRUMP	God bless you, and goodnight.
+375	TRUMP	I love you.
